@@ -4,8 +4,6 @@
 - 🤖 Atualmente estudando Java, GameMaker e Unity com foco em 2D.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoapc&show_icons=true&theme=onedark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact&theme=onedark)
 
 <div style="display: inline_block"> <br>
   <img alling="center" height="30" widht="40" alt= "C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
