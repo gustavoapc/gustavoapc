@@ -1,7 +1,7 @@
 ### Bem vindo, eu sou Gustavo. É um prazer te-lo aqui 👋
 
 - 🔭 Me graduando em Engenharia da Computação na Universiade de Pernambuco.
-- 🤖 Atualmente estudando Java, GameMaker e Unity com foco em 2D.
+- 🤖 Atualmente estudando Java, C#, GameMaker e Unity com foco em 2D.
 
 
 
