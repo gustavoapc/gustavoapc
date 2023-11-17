@@ -1,4 +1,4 @@
-### Bem vindo, eu sou Gustavo. É um prazer te-lo aqui 👋
+### Bem vindo, eu sou Gustavo. É um prazer te conhecer :) 👋
 
 - 🔭 Me graduando em Engenharia da Computação na Universiade de Pernambuco.
 
