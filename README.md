@@ -1,7 +1,6 @@
 ### Bem vindo, eu sou Gustavo. :) 👋
 
 - 🔭 Me graduando em Engenharia da Computação na Universiade de Pernambuco.
--  Git Hub focado em projetos universitarios
 
 
 
