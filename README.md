@@ -1,6 +1,6 @@
 ### Bem vindo, eu sou Gustavo. :) 👋
 
-- 🔭 Me graduando em Engenharia da Computação na Universiade de Pernambuco.
+- 🔭 Me graduando em Engenharia da Computação na Universidade de Pernambuco.
 
 
 
