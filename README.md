@@ -10,7 +10,10 @@
   <img alling="center" height="30" widht="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alling="center" height="30" widht="40" alt= "Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alling="center" height="30" widht="40" alt= "Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alling="center" height="30" widht="40" alt= "Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+  <img alling="center" height="30" widht="40" alt= "MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
+           
           
   </div>
   
