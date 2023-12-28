@@ -1,7 +1,8 @@
-### Bem vindo, eu sou Gustavo. :) 👋
+### OLÁ, eu sou Gustavo. :) 👋🤙
 
-- 🔭 Me graduando em Engenharia da Computação na Universidade de Pernambuco.
-
+- 📖 Estudante de Bacharelado em Engenharia da Computação na Universidade de Pernambuco.
+- 👀 Curioso acerca de Engenharia de Dados, Ciência de Dados, Segurança da Informação.
+  
 
 
 
@@ -23,5 +24,5 @@
   </div>
   
 ##
-![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact)
-
+![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoapc&show_icons=true&theme=radical)
