@@ -24,5 +24,5 @@
   </div>
   
 ##
-<!-- e se termina com .![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact&theme=radical)-->
+![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact&theme=radical)
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoapc&show_icons=true&theme=radical)
