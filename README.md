@@ -21,5 +21,5 @@
   </div>
   
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&hide_progress=true)
+![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact)
 </div>
