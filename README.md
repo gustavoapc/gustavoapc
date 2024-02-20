@@ -1,7 +1,7 @@
 ### OLÁ, eu sou Gustavo. :) 👋🤙
 
 - 📖 Estudante de Bacharelado em Engenharia da Computação na Universidade de Pernambuco.
-- 👀 Curioso acerca de Engenharia de Dados, Ciência de Dados, Segurança da Informação.
+- 👀 Entusiasta de CyberSegurança
   
 
 
