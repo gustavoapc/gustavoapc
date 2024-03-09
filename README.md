@@ -1,7 +1,6 @@
 ### OLÁ, eu sou Gustavo. :) 👋🤙
 
 - 📖 Estudante de Bacharelado em Engenharia da Computação na Universidade de Pernambuco.
-- 🧑‍💼 Estágiario de Cyber Threat Intelligence
 - 👀 Entusiasta de CyberSegurança
   
 
