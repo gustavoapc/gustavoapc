@@ -1,7 +1,6 @@
 ### OLÁ, eu sou Gustavo. :) 👋🤙
 
 - 📖 Estudante de Bacharelado em Engenharia da Computação na Universidade de Pernambuco.
-- 👀 Entusiasta de CyberSegurança
   
 
 
@@ -17,12 +16,7 @@
            
           
   </div>
-  
-  ##
-  <div>
-   <a href= "https://www.linkedin.com/in/gustavo-porto-953209221/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  </div>
-  
+
 ##
 ![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoapc&layout=compact&theme=radical)
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoapc&show_icons=true&theme=radical)
