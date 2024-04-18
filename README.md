@@ -1,6 +1,6 @@
-### OLÁ, eu sou Gustavo. :) 👋🤙
+### Hello :) 👋🤙
 
-- 📖 Estudante de Bacharelado em Engenharia da Computação na Universidade de Pernambuco.
+- 📖  Computer Engineer Student.
   
 
 
